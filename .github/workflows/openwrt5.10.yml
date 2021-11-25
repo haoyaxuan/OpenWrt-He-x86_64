@@ -164,7 +164,7 @@ jobs:
 
     - name: 微信报告
       uses: emon100/Action-Serverchan@master
-      if: !cancelled()
+      if: steps.organize.outputs.status != 'success' && !cancelled()
       with:
         SCKEY: ${{ secrets.SERVERCHAN }}
         text: 恭喜主人openwrt5.10固件编译成功！
