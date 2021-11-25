@@ -16,4 +16,4 @@ lean源码版本，内核为***5.10***版
 > `ip：192.168.1.1 密码：password`
 
 ## 固件下载
-### 点击[Actions](https://github.com/haoyaxuan/openwrt-Exclusive/actions) 或者[Releases](https://github.com/haoyaxuan/openwrt-Exclusive/releases) 选择需要的固件
+### 点击[Actions](https://github.com/haoyaxuan/OpenWrt-He-x86_64/actions) 或者[Releases](https://github.com/haoyaxuan/OpenWrt-He-x86_64/releases) 选择需要的固件
