@@ -32,6 +32,6 @@ git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme
 # git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
 # git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
 # rm -rf ./package/lean/luci-app-qbittorrent
-rm -rf ./package/lean/UnblockNeteaseMusic
-rm -rf ./package/lean/UnblockNeteaseMusic-Go
+# rm -rf ./package/lean/UnblockNeteaseMusic
+# rm -rf ./package/lean/UnblockNeteaseMusic-Go
 git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
