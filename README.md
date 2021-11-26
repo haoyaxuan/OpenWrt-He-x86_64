@@ -21,5 +21,5 @@ lean源码版本，内核为***5.10***版
 ## 觉得资源还不错的可以打赏一下
 | 微信                                                         | 支付宝                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![wechatpay](https://github.com/haoyaxuan/OpenWrt-He-x86_64/blob/master/images/wechatpay.png) | ![alipay](https://github.com/OpenWrt-He-x86_64/k550di7d1/blob/master/images/alipay.png) |
+| ![wechatpay](https://github.com/haoyaxuan/OpenWrt-He-x86_64/blob/main/images/wechatpay.png) | ![alipay](https://github.com/haoyaxuan/OpenWrt-He-x86_64/blob/main/images/alipay.png) |
 
