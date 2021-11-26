@@ -1,4 +1,4 @@
-# OpenWrt-X86-64稳定版云编译项目
+# OpenWrt-X86-64云编译项目
 
 ## 固件来源：
 
@@ -17,3 +17,9 @@ lean源码版本，内核为***5.10***版
 
 ## 固件下载
 ### 点击[Actions](https://github.com/haoyaxuan/OpenWrt-He-x86_64/actions) 或者[Releases](https://github.com/haoyaxuan/OpenWrt-He-x86_64/releases) 选择需要的固件
+
+## 觉得资源还不错的可以打赏一下
+| 微信                                                         | 支付宝                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![wechatpay](https://github.com/haoyaxuan/OpenWrt-He-x86_64/blob/master/images/wechatpay.png) | ![alipay](https://github.com/OpenWrt-He-x86_64/k550di7d1/blob/master/images/alipay.png) |
+
